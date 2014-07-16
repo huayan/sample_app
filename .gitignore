@@ -15,4 +15,8 @@
 /log/*.log
 /tmp
 
+
+# Ignore the database config file
+/config/database.yml
+
 .secret
